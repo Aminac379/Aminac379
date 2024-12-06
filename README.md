@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aminac379
-- 👀 I’m interested in Blockchain Technology 
-- 🌱 I’m currently learning Blockchain 
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently enrolled for an MSc in Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email
 
